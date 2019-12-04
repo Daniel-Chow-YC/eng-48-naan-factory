@@ -8,6 +8,8 @@ The learning outcomes include:
 - Markdown
 - TDD
 - Functional programming
+- DRY Principles
+- Separation of Concerns
 
 ## Specifications of the Factory
 Our factory will have to steps.
